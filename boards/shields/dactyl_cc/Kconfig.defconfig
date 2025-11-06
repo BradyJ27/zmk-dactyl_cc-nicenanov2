@@ -1,0 +1,6 @@
+if SHIELD_DACTYL_CC
+
+config ZMK_KEYBOARD_NAME
+    default "Dactyl CC"
+
+endif
